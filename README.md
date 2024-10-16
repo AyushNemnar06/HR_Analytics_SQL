@@ -18,7 +18,6 @@ Department: The department to which the employee belongs.
 Termination Date: If applicable, the date when the employee left the company.
 # Data Cleaning and Preprocessing
 Before analysis, the dataset underwent a thorough cleaning and preprocessing phase to ensure data quality and consistency. The steps involved in data preparation include:
-
 Handling missing data.
 Correcting data types.
 Removing duplicates.
