@@ -1,4 +1,5 @@
 # HR Data Analytics Project
+![visuals](Photos/HR-Analytics.jpg)
 
 ## Overview
 
@@ -43,7 +44,7 @@ The core of this project revolves around data analysis. We explore various aspec
 ## Data Visualisation
 ![dashboard visual Analysis](Photos/Bi_analysis.png)
 ![dashboard visual Trends](Photos/Trends.png)
-
+Photos/HR-Analytics.jpg
 You may make a variety of visualizations in Power BI, such as bar charts, line graphs, pie charts, and heat maps. Make the visualizations specific to the measurements and patterns you want to highlight.
 
 ## Tools Used
