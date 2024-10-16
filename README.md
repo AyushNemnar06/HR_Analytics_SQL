@@ -41,7 +41,7 @@ The core of this project revolves around data analysis. We explore various aspec
 - **Time Series Analysis**: Exploring patterns over time, including hiring and termination trends.
 
 ## Data Visualisation
-![dashboard visual Analysis](Photos/)
+![dashboard visual Analysis](Photos/Bi_analysis.png)
 ![dashboard visual Trends](Photos/Trends.png)
 
 You may make a variety of visualizations in Power BI, such as bar charts, line graphs, pie charts, and heat maps. Make the visualizations specific to the measurements and patterns you want to highlight.
