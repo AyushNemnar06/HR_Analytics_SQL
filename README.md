@@ -1,7 +1,5 @@
 # HR Data Analytics Project
 
-![framework](images/framework.jpg)
-
 ## Overview
 
 This repository contains a data analytics project focused on human resources (HR) data. The dataset comprises 22,214 rows and 13 columns, with information about employees, including their ID, age, name, hire date, department, and termination date if applicable. The data was originally in a CSV file but has been loaded into a MySQL Relational Database Management System (RDBMS) for analysis.
